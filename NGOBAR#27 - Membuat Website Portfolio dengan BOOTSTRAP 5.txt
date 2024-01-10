@@ -1,0 +1,12 @@
+#NOBAR BOOTSTRAP 5 - SANDIKA GALIH
+*software VsCode - pretier (untuk merapihkan code automaris)
+ - lambang setting - manage - extention setting printIWdht 240, semi ceklis
+ - format on save ceklist
+ - defult formatter - pretier
+* Open in Browser
+* Auto Rename Text
+* https://squoosh.app/ (aplikasi ubah gambar)
+* https://getwaves.io/ ( untuk gelombang section web)
+* https://unsplash.com/
+
+*Get Wave.io
